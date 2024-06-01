@@ -1,0 +1,94 @@
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.exe
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.deps.json
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.runtimeconfig.json
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.runtimeconfig.dev.json
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.pdb
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csprojAssemblyReference.cache
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainView.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\ActionBar.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Create.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\CreateFR.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Launch.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\LaunchFR.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainView.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainViewFR.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Settings.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\SettingsFR.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3_MarkupCompile.cache
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3_MarkupCompile.lref
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\ActionBar.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Create.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\CreateFR.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Launch.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\LaunchFR.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainViewFR.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Settings.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\SettingsFR.baml
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.g.resources
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave_V3._0.Properties.Resources.resources
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.GenerateResource.cache
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.AssemblyInfoInputs.cache
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.AssemblyInfo.cs
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.CoreCompileInputs.cache
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.CopyComplete
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.dll
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.pdb
+C:\Users\to-be\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.genruntimeconfig.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.exe
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.deps.json
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.runtimeconfig.json
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.runtimeconfig.dev.json
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\EasySave V3.pdb
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csprojAssemblyReference.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainView.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\ActionBar.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Create.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\CreateFR.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Launch.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\LaunchFR.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainView.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainViewFR.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Settings.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\SettingsFR.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3_MarkupCompile.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3_MarkupCompile.lref
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\ActionBar.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Create.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\CreateFR.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Launch.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\LaunchFR.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\MainViewFR.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\Settings.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\Views\SettingsFR.baml
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.g.resources
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave_V3._0.Properties.Resources.resources
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.GenerateResource.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.AssemblyInfoInputs.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.AssemblyInfo.cs
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.CoreCompileInputs.cache
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.csproj.CopyComplete
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.dll
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.pdb
+C:\Users\Gunut\source\repos\ProjetEasySave\EasySave V3\obj\Debug\netcoreapp3.1\EasySave V3.genruntimeconfig.cache

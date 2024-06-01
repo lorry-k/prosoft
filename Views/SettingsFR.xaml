@@ -1,0 +1,27 @@
+﻿<Page x:Class="EasySave_V3._0.Views.SettingsFR"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave_V3._0.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SettingsFR">
+
+    <Grid Background="#FF11151C">
+        <Label Content="Paramètres" HorizontalAlignment="Left" Margin="26,13,0,0" VerticalAlignment="Top" Foreground="#FFD66853" FontFamily="Yu Gothic" FontSize="48"/>
+        <Label Content="Langage" HorizontalAlignment="Left" Margin="26,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.588,0.424" Width="192" Background="#FF364156" Foreground="White" FontFamily="Yu Gothic"/>
+        <Button Style="{DynamicResource ButtonStyleRound}" Content="Retour" Foreground="#7d4e57" HorizontalAlignment="Left" Margin="27,347,0,0" VerticalAlignment="Top" Width="98" Height="30" Click="Back_Button"/>
+        <Label Content="Extensions" HorizontalAlignment="Left" Margin="242,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.588,0.424" Width="192" Background="#FF364156" Foreground="White" FontFamily="Yu Gothic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="242,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="71" Width="192" FontFamily="Yu Gothic" Foreground="White" FontSize="14" TextAlignment="Justify"><Run Text="Ajoutez les extensions des fichiers à crypter lors de sauvegardes"/><Run Language="fr-fr" Text=" "/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="extension" Style="{DynamicResource TextBoxStyle1}" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" Background="#FF212D40" BorderBrush="#FF364156" Foreground="White" FontFamily="Yu Gothic UI Light" TextAlignment="Center" FontSize="14" Margin="242,225,0,0" Text="extension" />
+        <Label Content="Logiciels" HorizontalAlignment="Left" Margin="464,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.588,0.424" Width="192" Background="#FF364156" Foreground="White" FontFamily="Yu Gothic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="464,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="71" Width="192" FontFamily="Yu Gothic" Foreground="White" FontSize="14" TextAlignment="Justify"><Run Language="fr-fr" Text="Ajouter les logiciels qui provoqueront l'arret des sauvegardes"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="software" Style="{DynamicResource TextBoxStyle1}" HorizontalAlignment="Left" Height="29" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" Background="#FF212D40" BorderBrush="#FF364156" Foreground="White" FontFamily="Yu Gothic UI Light" TextAlignment="Center" FontSize="14" Margin="464,225,0,0" Text="logiciel" />
+        <Button x:Name="Extensions_OK" Style="{DynamicResource ButtonStyleRound}" Content="OK" HorizontalAlignment="Left" Margin="400,225,0,0" VerticalAlignment="Top" Width="34" Height="29" Click="extensions_Valid"/>
+        <Button x:Name="Softwares_OK" Style="{DynamicResource ButtonStyleRound}" Content="OK" HorizontalAlignment="Left" Margin="625,225,0,0" VerticalAlignment="Top" Width="31" Height="29" Click="softwares_Valid"/>
+        <Button x:Name="EnglishButton" Style="{DynamicResource ButtonStyleRound}" Content="English" HorizontalAlignment="Left" Margin="27,146,0,0" VerticalAlignment="Top" Width="95" Height="29" Click="English"/>
+        <Button x:Name="FrancaisButton" Style="{DynamicResource ButtonStyleRound}" Content="Français" HorizontalAlignment="Left" Margin="127,146,0,0" VerticalAlignment="Top" Width="91" Height="29" Click="Francais"/>
+
+    </Grid>
+</Page>
